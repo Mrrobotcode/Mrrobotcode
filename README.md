@@ -4,21 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=00FF00&width=545&lines=Hi%2C+I'm+Jose%2C+I'm+a+Software+Enginner+Student;From+Dominican+Republic;And+I+came+to+improve+the+world+through+code.)](https://git.io/typing-svg)
 
-Programming Languages
+    Programming Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
-Frontend
+    Frontend
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Figma](htt<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   
-Frameworks y Library
+    Frameworks y Library
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -36,15 +36,15 @@ Frameworks y Library
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-Backend y RunTime
+    Backend y RunTime
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   
-Versión Control
+    Versión Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
-Hostings
+    Hostings
 
 ![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 

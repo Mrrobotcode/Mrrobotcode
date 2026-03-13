@@ -12,6 +12,8 @@
   
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mrrobotcode&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
 
+<img align="center" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"/>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrrobotcode&theme=github-dark)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-mercedes-57b263329/)
